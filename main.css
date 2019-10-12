@@ -10,3 +10,12 @@ img {
   display: flex;
   justify-content: center;
 }
+
+.flex-container > div {
+  background-color: #f1f3f1;
+  width: 10em;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
